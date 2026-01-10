@@ -35,7 +35,7 @@ I'm passionate about **Data Engineering**, **AI/ML**, **DevOps automation**, **O
 ## 📚 Top Projects
 
 ### 🚀 **Frontend/Portfolio**
-- **[portfolio](https://github.com/ckongala.github.io)** - Website Portfolio 
+- **[portfolio](https://ckongala.github.io)** - Website Portfolio 
 
 ### ⭐ **Software Engineering & DSA**
 - **[learnings-DSA](https://github.com/ckongala/Learnings-DSA)** – Data Structures & Algorithms mastery
